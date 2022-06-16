@@ -1,0 +1,16 @@
+{
+    "firstName":"arc1012",
+    "lastName":"das",
+  "emailId":"akesarwan1014@deloitte.com",
+    "contactNumber":"8744912887",
+    "password":"Foodswipe@123",
+ "roles":
+  [
+{
+     "role":"Admin"
+},
+{
+     "role":"Employee"
+}
+  ]
+}

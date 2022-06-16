@@ -1,0 +1,15 @@
+{
+    "firstName": "Anita",
+    "lastName": "Kesarwani",
+    "emailId": "akesarwan00i@deloitte.com",
+    "contactNumber": "8744912887",
+    "password": "Foodswipe@123",
+    "roles": [
+        {
+            "role": "Admin"
+        },
+        {
+            "role": "Employee"
+        }
+    ]
+}

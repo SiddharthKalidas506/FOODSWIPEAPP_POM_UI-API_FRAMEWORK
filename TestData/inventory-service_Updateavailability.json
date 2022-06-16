@@ -1,0 +1,10 @@
+{
+    "menuId": 1,
+    "menuCategory": "Lunch",
+    "menuName": "Rice45",
+    "menuDesc": "Authentic curd rice",
+    "price": 75.0,
+    "quantity": 40,
+    "activeFlag": "true",
+    "counterName": "HiD3"
+}

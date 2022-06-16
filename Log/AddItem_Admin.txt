@@ -1,0 +1,638 @@
+2022-06-06 20:20:02,706 - root - INFO - Login successful
+2022-06-06 20:20:08,903 - root - INFO - Item found, search successfull
+2022-06-07 01:18:43,825 - root - INFO - Login successful
+2022-06-07 01:22:40,148 - root - INFO - Login successful
+2022-06-07 01:22:50,535 - root - INFO - Item added successfully
+2022-06-07 01:24:27,141 - root - INFO - Login successful
+2022-06-07 01:24:37,911 - root - INFO - Item added successfully
+2022-06-07 01:25:26,899 - root - INFO - Login successful
+2022-06-07 01:25:37,072 - root - INFO - Item added successfully
+2022-06-07 10:45:49,308 - root - INFO - Login successful
+2022-06-07 10:47:50,366 - root - INFO - Login successful
+2022-06-07 10:48:52,579 - root - INFO - Login successful
+2022-06-07 11:04:51,036 - root - INFO - Login successful
+2022-06-07 11:08:58,934 - root - INFO - Login successful
+2022-06-07 11:09:03,367 - root - INFO - Login successful
+2022-06-07 11:09:05,865 - root - INFO - Logout successful
+2022-06-07 11:11:51,908 - root - INFO - Login successful
+2022-06-07 11:11:56,205 - root - INFO - Login successful
+2022-06-07 11:11:58,404 - root - INFO - Logout successful
+2022-06-07 11:13:43,846 - root - INFO - Login successful
+2022-06-07 11:13:48,276 - root - INFO - Login successful
+2022-06-07 11:13:50,301 - root - INFO - Logout successful
+2022-06-07 11:25:34,069 - root - INFO - Login successful
+2022-06-07 11:36:12,973 - root - INFO - Login successful
+2022-06-07 11:36:19,995 - root - INFO - Logout successful
+2022-06-07 11:43:08,192 - root - INFO - Login successful
+2022-06-07 11:44:33,870 - root - INFO - Login successful
+2022-06-07 11:44:40,425 - root - INFO - Logout successful
+2022-06-07 11:46:56,830 - root - INFO - Login successful
+2022-06-07 11:47:02,891 - root - INFO - Logout successful
+2022-06-07 11:49:31,193 - root - INFO - Login successful
+2022-06-07 12:06:04,462 - root - INFO - Login successful
+2022-06-07 12:06:11,601 - root - INFO - Logout successful
+2022-06-07 12:28:58,726 - root - INFO - Login successful
+2022-06-07 12:29:02,225 - root - INFO - Login successful
+2022-06-07 12:29:06,209 - root - INFO - Logout successful
+2022-06-07 12:32:35,410 - root - INFO - Login successful
+2022-06-07 12:32:42,945 - root - INFO - Logout successful
+2022-06-07 12:35:39,104 - root - INFO - Login successful
+2022-06-07 12:35:44,357 - root - INFO - Login successful
+2022-06-07 12:35:47,520 - root - INFO - Logout successful
+2022-06-07 14:35:18,267 - root - INFO - Login successful
+2022-06-07 14:35:21,847 - root - INFO - Login successful
+2022-06-07 14:35:24,051 - root - INFO - Logout successful
+2022-06-07 14:42:45,789 - root - INFO - Login successful
+2022-06-07 14:44:30,112 - root - INFO - Login successful
+2022-06-07 14:44:33,900 - root - INFO - Login successful
+2022-06-07 14:48:03,701 - root - INFO - Login successful
+2022-06-07 14:49:05,348 - root - INFO - Login successful
+2022-06-07 14:49:20,795 - root - INFO - Item added successfully
+2022-06-07 15:04:52,522 - root - INFO - Login successful
+2022-06-07 15:05:09,119 - root - INFO - Logout successful
+2022-06-07 15:05:10,634 - root - INFO - Login successful
+2022-06-07 15:08:43,769 - root - INFO - Login successful
+2022-06-07 15:08:45,696 - root - INFO - Login successful
+2022-06-07 16:58:13,754 - root - INFO - Login successful
+2022-06-07 16:58:34,165 - root - INFO - Item added successfully
+2022-06-07 16:59:09,371 - root - INFO - Login successful
+2022-06-07 16:59:25,275 - root - INFO - Item added successfully
+2022-06-08 15:24:39,465 - test_1_login_validation - INFO - Login successful
+2022-06-08 15:24:39,779 - test_2_Homepage - INFO - User name Noted
+2022-06-08 15:24:49,858 - test_2_Homepage - INFO -   Siddharth Kalidas
+2022-06-08 15:24:49,858 - test_2_Homepage - INFO - User Verification Is Successfully 
+2022-06-08 15:24:49,860 - test_3_getthelist - INFO - You have selected All the other items
+2022-06-08 15:24:49,861 - test_3_getthelist - INFO - *******List of All The Other products******
+2022-06-08 15:24:49,892 - test_3_getthelist - INFO - 19
+2022-06-08 15:24:49,892 - test_3_getthelist - INFO - 19
+2022-06-08 15:24:49,892 - test_3_getthelist - INFO - 15
+2022-06-08 15:24:50,428 - test_4_gotocart - INFO - Hasher's Food Swipe
+2022-06-08 15:24:50,428 - test_4_gotocart - INFO - You have Navigate to My Cart Page
+2022-06-08 15:25:10,728 - test_5_Itemsincart - INFO - Hasher's Food Swipe
+2022-06-08 15:25:10,730 - test_5_Itemsincart - INFO - Verifying Iteams in Cart
+2022-06-08 15:25:11,142 - test_5_Itemsincart - INFO - 1
+2022-06-08 15:25:11,159 - test_5_Itemsincart - INFO - Mango Shake
+2022-06-08 15:25:11,159 - test_5_Itemsincart - INFO - All The Items Is Added
+2022-06-08 15:25:11,164 - test_6_clicktopay - INFO - Hasher's Food Swipe
+2022-06-08 15:25:11,164 - test_6_clicktopay - INFO - Proceding to payment
+2022-06-08 15:25:11,679 - test_7_payment - INFO - 123456789123456000
+2022-06-08 15:25:11,679 - test_7_payment - INFO - Siddharth Kalidas
+2022-06-08 15:25:59,590 - test_8_cancelorder - INFO - 2
+2022-06-08 15:25:59,592 - test_8_cancelorder - INFO - (//div[@class='order-pending'])
+2022-06-08 15:26:20,066 - test_othermenu - INFO - 15
+2022-06-08 15:26:20,067 - test_othermenu - INFO - You have selected Lunch
+2022-06-08 15:26:30,569 - test_othermenu - INFO - *******List of Lunch products******
+2022-06-08 15:26:40,646 - test_othermenu - INFO - 37
+2022-06-08 15:26:40,646 - test_othermenu - INFO - 36
+2022-06-08 15:26:40,705 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:40,789 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:40,807 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:40,818 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:40,833 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:40,844 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:40,867 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:40,877 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:40,893 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:40,907 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:40,925 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:40,939 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:40,955 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:40,966 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:40,982 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:40,993 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,009 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,020 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,039 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,048 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,067 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,077 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,093 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,104 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,119 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,129 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,146 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,157 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,173 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,184 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,216 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,227 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,244 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,256 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,272 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,283 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,299 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,309 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,328 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,337 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,351 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,361 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,376 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,385 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,400 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,409 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,426 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,435 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,449 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,458 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,473 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,484 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,501 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,511 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,530 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,540 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,553 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,563 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,579 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,588 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,605 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,614 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,629 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,640 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,654 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,664 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,679 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,688 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,705 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,715 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,730 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:41,739 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,758 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,764 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,781 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,786 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,805 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,810 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,824 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,831 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,848 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,853 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,871 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,877 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,890 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,896 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,912 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,917 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,932 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,941 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,956 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,961 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:41,978 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:41,986 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,001 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,010 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,024 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,030 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,049 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,055 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,071 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,081 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,098 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,104 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,122 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,127 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,146 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,151 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,167 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,173 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,189 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,194 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,209 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,218 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,233 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,238 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,255 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,261 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,276 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,281 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,296 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,302 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,318 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,323 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,338 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,346 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,361 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,367 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,385 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,390 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,406 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,411 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,426 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,432 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,450 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,456 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,471 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,476 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,490 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,496 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,513 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,519 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,534 - test_othermenu - INFO - Moong Dal Halwa
+2022-06-08 15:26:42,539 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,558 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,563 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,580 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,585 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,600 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,605 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,624 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,628 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,644 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,649 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,664 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,669 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,684 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,688 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,703 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,709 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,725 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,729 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,748 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,752 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,771 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,775 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,791 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,795 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,812 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,816 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,834 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,838 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,855 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,859 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,875 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,880 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,906 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,911 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,927 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,931 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,947 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,951 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,968 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,973 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:42,989 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:42,993 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,008 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,016 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,031 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,036 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,054 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,059 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,074 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,083 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,098 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,102 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,119 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,124 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,141 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,146 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,163 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,168 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,185 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,193 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,210 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,216 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,232 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,237 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,253 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,260 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,276 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,281 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,297 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,302 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,320 - test_othermenu - INFO - Veg Biryani
+2022-06-08 15:26:43,327 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,348 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,353 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,370 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,375 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,393 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,398 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,413 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,418 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,432 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,437 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,461 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,467 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,482 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,487 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,503 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,507 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,527 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,532 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,548 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,554 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,569 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,574 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,593 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,598 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,613 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,619 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,636 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,641 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,662 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,668 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,685 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,691 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,707 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,711 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,729 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,734 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,750 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,755 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,771 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,775 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,798 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,803 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,819 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,823 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,839 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,882 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,946 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,951 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,966 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,972 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:43,987 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:43,993 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,008 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,014 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,029 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,035 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,052 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,058 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,075 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,080 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,095 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,101 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,119 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,125 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,141 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,146 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,161 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,166 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,182 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,187 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,205 - test_othermenu - INFO - Chole Rice
+2022-06-08 15:26:44,211 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,230 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,235 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,252 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,257 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,274 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,279 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,298 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,303 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,318 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,323 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,341 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,347 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,366 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,371 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,388 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,392 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,412 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,418 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,434 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,439 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,456 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,461 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,483 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,489 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,503 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,508 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,522 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,527 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,548 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,554 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,576 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,584 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,599 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,607 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,634 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,639 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,659 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,664 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,680 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,685 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,699 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,705 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,720 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,730 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,745 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,750 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,765 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,769 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,784 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,788 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,804 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,808 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,824 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,829 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,848 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,852 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,866 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,871 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,889 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,893 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,911 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,917 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,932 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,942 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,959 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,963 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:44,979 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:44,983 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,000 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:45,004 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,022 - test_othermenu - INFO - Chicken Biryani
+2022-06-08 15:26:45,027 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,050 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,055 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,072 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,078 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,096 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,100 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,116 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,120 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,135 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,142 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,157 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,162 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,178 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,183 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,198 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,203 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,219 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,224 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,239 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,244 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,258 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,262 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,279 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,283 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,300 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,305 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,320 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,325 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,340 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,344 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,361 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,366 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,384 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,388 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,403 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,407 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,424 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,428 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,448 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,452 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,466 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,470 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,485 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,490 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,511 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,530 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,547 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,553 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,569 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,573 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,587 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,591 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,606 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,611 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,627 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,632 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,647 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,651 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,668 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,672 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,691 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,696 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,714 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,718 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,733 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,741 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,758 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,763 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,778 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,783 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,801 - test_othermenu - INFO - Kadai Paneer
+2022-06-08 15:26:45,805 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,826 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:45,831 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,849 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:45,853 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,870 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:45,875 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,890 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:45,896 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,911 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:45,919 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,934 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:45,938 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,953 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:45,959 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,975 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:45,981 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:45,997 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,005 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,019 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,023 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,041 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,045 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,063 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,067 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,086 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,091 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,107 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,111 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,127 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,133 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,149 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,153 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,167 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,172 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,189 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,193 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,221 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,226 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,243 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,247 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,266 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,270 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,285 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,289 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,307 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,312 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,329 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,334 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,352 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,357 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,373 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,378 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,395 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,399 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,413 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,422 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,437 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,442 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,457 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,462 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,477 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,485 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,499 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,504 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,521 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,525 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,540 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,545 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,562 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,566 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,582 - test_othermenu - INFO - Rajma Rice
+2022-06-08 15:26:46,587 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,610 - test_othermenu - INFO - Full meals
+2022-06-08 15:26:46,615 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,631 - test_othermenu - INFO - Full meals
+2022-06-08 15:26:46,636 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,651 - test_othermenu - INFO - Full meals
+2022-06-08 15:26:46,655 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,672 - test_othermenu - INFO - Full meals
+2022-06-08 15:26:46,676 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,691 - test_othermenu - INFO - Full meals
+2022-06-08 15:26:46,699 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,714 - test_othermenu - INFO - Full meals
+2022-06-08 15:26:46,719 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,738 - test_othermenu - INFO - Full meals
+2022-06-08 15:26:46,742 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,758 - test_othermenu - INFO - Full meals
+2022-06-08 15:26:46,762 - test_othermenu - INFO -  ADD TO CART 
+2022-06-08 15:26:46,854 - test_4_gotocart - INFO - Hasher's Food Swipe
+2022-06-08 15:26:46,854 - test_4_gotocart - INFO - You have Navigate to My Cart Page
+2022-06-08 15:27:07,000 - test_5_Itemsincart - INFO - Hasher's Food Swipe
+2022-06-08 15:27:07,002 - test_5_Itemsincart - INFO - Verifying Iteams in Cart
+2022-06-08 15:27:07,425 - test_5_Itemsincart - INFO - 2
+2022-06-08 15:27:07,437 - test_5_Itemsincart - INFO - Mango Shake
+2022-06-08 15:27:07,448 - test_5_Itemsincart - INFO - Full meals
+2022-06-08 15:27:07,448 - test_5_Itemsincart - INFO - All The Items Is Added
+2022-06-08 15:27:07,452 - test_6_clicktopay - INFO - Hasher's Food Swipe
+2022-06-08 15:27:07,452 - test_6_clicktopay - INFO - Proceding to payment
+2022-06-08 15:27:07,565 - test_7_payment - INFO - 123456789123456000
+2022-06-08 15:27:07,565 - test_7_payment - INFO - Siddharth Kalidas
+2022-06-08 15:27:54,895 - test_8_cancelorder - INFO - 3
+2022-06-08 15:27:54,897 - test_8_cancelorder - INFO - (//div[@class='order-pending'])
+2022-06-08 15:28:19,835 - root - INFO - Login successful
+2022-06-08 15:28:35,303 - root - INFO - Item added successfully
+2022-06-08 15:28:54,002 - root - INFO - Login successful
+2022-06-08 15:29:08,430 - root - INFO - User added successfully
+2022-06-08 15:29:25,819 - root - INFO - Login successful
+2022-06-08 15:29:31,122 - root - INFO - Inside settings frame
+2022-06-08 15:29:47,982 - root - INFO - User not added
+2022-06-08 15:30:23,631 - root - INFO - Moved to signUp page
+2022-06-08 15:30:33,802 - root - INFO - SignUp Done
+2022-06-08 15:30:50,503 - root - INFO - Login successful
+2022-06-08 15:30:56,036 - root - INFO - Searching item:  Fish Fry
+2022-06-08 15:31:02,165 - root - INFO - Item Fish Fry found, search successfull
+2022-06-08 15:31:20,043 - root - INFO - Login successful
+2022-06-08 15:31:24,367 - root - INFO - Menu selected: ALL OTHER ITEMS
+2022-06-08 15:31:40,591 - root - INFO - Logout successful
+2022-06-08 15:31:42,055 - root - INFO - User Login successful
+2022-06-08 15:31:49,069 - root - INFO - Item is available
+2022-06-08 15:31:49,293 - root - INFO - --------------------------------

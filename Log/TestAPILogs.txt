@@ -1,0 +1,504 @@
+2022-06-09 10:45:37,819 - root - INFO - Login admin API invoked
+2022-06-09 10:46:04,635 - root - INFO - Login admin API response received 
+2022-06-09 11:07:06,071 - root - INFO - Login Admin API invoked
+2022-06-09 11:07:07,092 - root - INFO - Login admin API response received 
+2022-06-09 11:07:34,568 - root - INFO - Login Admin API invoked
+2022-06-09 11:07:47,449 - root - INFO - Login Admin API invoked
+2022-06-09 11:07:48,261 - root - INFO - Login admin API response received 
+2022-06-09 11:10:21,395 - root - INFO - Login Admin API invoked
+2022-06-09 11:10:21,406 - root - INFO - Hit the inventory login Url
+2022-06-09 11:10:22,230 - root - INFO - Login admin API response received 
+2022-06-09 11:11:10,554 - root - INFO - Login Admin API invoked
+2022-06-09 11:11:10,565 - root - INFO - Hit the inventory login Url
+2022-06-09 11:11:11,218 - root - INFO - Login admin API response received 
+2022-06-09 11:40:34,413 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 11:40:34,423 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 11:40:55,883 - root - INFO - Login admin API response received 
+2022-06-09 11:40:55,904 - root - INFO - 200
+2022-06-09 11:40:55,908 - root - INFO - Login Admin API invoked
+2022-06-09 11:40:55,919 - root - INFO - Hit the inventory login Url
+2022-06-09 11:41:50,569 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 11:41:50,579 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 11:41:51,318 - root - INFO - Login admin API response received 
+2022-06-09 11:41:51,336 - root - INFO - 200
+2022-06-09 11:41:51,339 - root - INFO - Login Admin API invoked
+2022-06-09 11:41:51,351 - root - INFO - Hit the inventory login Url
+2022-06-09 11:41:52,121 - root - INFO - Login admin API response received 
+2022-06-09 11:41:52,136 - root - INFO - 200
+2022-06-09 11:42:10,836 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 11:42:10,845 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 11:42:11,496 - root - INFO - Login admin API response received 
+2022-06-09 11:42:11,512 - root - INFO - 200
+2022-06-09 11:42:19,383 - root - INFO - Login Admin API invoked
+2022-06-09 11:42:19,392 - root - INFO - Hit the inventory login Url
+2022-06-09 11:42:20,049 - root - INFO - Login admin API response received 
+2022-06-09 11:42:20,058 - root - INFO - 200
+2022-06-09 11:42:25,447 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 11:42:25,456 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 11:42:26,193 - root - INFO - Login admin API response received 
+2022-06-09 11:42:26,201 - root - INFO - 200
+2022-06-09 11:42:26,203 - root - INFO - Login Admin API invoked
+2022-06-09 11:42:26,211 - root - INFO - Hit the inventory login Url
+2022-06-09 11:42:26,818 - root - INFO - Login admin API response received 
+2022-06-09 11:42:26,836 - root - INFO - 200
+2022-06-09 11:52:14,450 - root - INFO - Login Admin API invoked
+2022-06-09 11:52:14,467 - root - INFO - Hit the inventory login Url
+2022-06-09 11:52:15,390 - root - INFO - Login admin API response received 
+2022-06-09 11:52:15,406 - root - INFO - 200
+2022-06-09 11:53:22,969 - root - INFO - Login Admin API invoked
+2022-06-09 11:53:22,981 - root - INFO - Hit the inventory login Url
+2022-06-09 11:54:36,085 - root - INFO - Login Admin API invoked
+2022-06-09 11:54:36,102 - root - INFO - Hit the inventory login Url
+2022-06-09 11:55:07,652 - root - INFO - Login Admin API invoked
+2022-06-09 11:55:07,662 - root - INFO - Hit the inventory login Url
+2022-06-09 11:55:34,809 - root - INFO - Login Admin API invoked
+2022-06-09 11:55:34,819 - root - INFO - Hit the inventory login Url
+2022-06-09 11:55:46,191 - root - INFO - Login Admin API invoked
+2022-06-09 11:55:46,201 - root - INFO - Hit the inventory login Url
+2022-06-09 11:55:46,897 - root - INFO - Login admin API response received 
+2022-06-09 11:55:46,915 - root - INFO - 200
+2022-06-09 11:56:31,921 - root - INFO - Login Admin API invoked
+2022-06-09 11:56:31,931 - root - INFO - Hit the inventory login Url
+2022-06-09 11:56:32,698 - root - INFO - Login admin API response received 
+2022-06-09 11:56:32,707 - root - INFO - 200
+2022-06-09 11:57:04,851 - root - INFO - Login Admin API invoked
+2022-06-09 11:57:04,867 - root - INFO - Hit the inventory login Url
+2022-06-09 11:57:05,592 - root - INFO - Login admin API response received 
+2022-06-09 11:57:05,609 - root - INFO - 200
+2022-06-09 11:58:22,661 - root - INFO - Login Admin API invoked
+2022-06-09 11:58:22,678 - root - INFO - Hit the inventory login Url
+2022-06-09 11:58:23,457 - root - INFO - Login admin API response received 
+2022-06-09 11:58:23,468 - root - INFO - 200
+2022-06-09 12:05:50,153 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:05:50,165 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:05:51,095 - root - INFO - 
+2022-06-09 12:05:51,114 - root - INFO - 200
+2022-06-09 12:05:51,118 - root - INFO - Login Admin API invoked
+2022-06-09 12:05:51,130 - root - INFO - Hit the inventory login Url
+2022-06-09 12:05:51,906 - root - INFO - Login admin API response received 
+2022-06-09 12:05:51,917 - root - INFO - 200
+2022-06-09 12:06:13,682 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:06:13,691 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:06:14,330 - root - INFO - 
+2022-06-09 12:06:14,344 - root - INFO - 200
+2022-06-09 12:06:14,348 - root - INFO - Login Admin API invoked
+2022-06-09 12:06:14,360 - root - INFO - Hit the inventory login Url
+2022-06-09 12:06:15,118 - root - INFO - Login admin API response received 
+2022-06-09 12:06:15,130 - root - INFO - 200
+2022-06-09 12:20:29,369 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:20:29,378 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:20:30,327 - root - INFO - 
+2022-06-09 12:20:30,346 - root - INFO - 200
+2022-06-09 12:21:48,797 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:21:48,808 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:21:49,662 - root - INFO - 
+2022-06-09 12:21:49,676 - root - INFO - 200
+2022-06-09 12:21:49,719 - root - INFO - Login Admin API invoked
+2022-06-09 12:21:49,728 - root - INFO - Hit the inventory login Url
+2022-06-09 12:21:56,331 - root - INFO - Login admin API response received 
+2022-06-09 12:21:56,342 - root - INFO - 200
+2022-06-09 12:22:47,289 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:22:47,299 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:22:47,992 - root - INFO - 
+2022-06-09 12:22:48,003 - root - INFO - 200
+2022-06-09 12:27:55,003 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:27:55,012 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:27:55,812 - root - INFO - 
+2022-06-09 12:27:55,831 - root - INFO - 200
+2022-06-09 12:27:55,882 - root - INFO - Login Admin API invoked
+2022-06-09 12:27:55,891 - root - INFO - Hit the inventory login Url
+2022-06-09 12:27:56,863 - root - INFO - Login admin API response received 
+2022-06-09 12:27:56,873 - root - INFO - 200
+2022-06-09 12:27:56,874 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:27:56,884 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:28:27,492 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:28:27,502 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:28:32,012 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:28:32,022 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:28:32,660 - root - INFO - 
+2022-06-09 12:28:32,679 - root - INFO - 200
+2022-06-09 12:28:39,657 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:28:39,666 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:28:40,282 - root - INFO - 
+2022-06-09 12:28:40,299 - root - INFO - 200
+2022-06-09 12:29:15,583 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:29:15,593 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:29:16,283 - root - INFO - 
+2022-06-09 12:29:16,302 - root - INFO - 200
+2022-06-09 12:29:21,271 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:29:21,280 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:29:22,015 - root - INFO - 
+2022-06-09 12:29:22,031 - root - INFO - 200
+2022-06-09 12:29:22,034 - root - INFO - Login Admin API invoked
+2022-06-09 12:29:22,046 - root - INFO - Hit the inventory login Url
+2022-06-09 12:29:22,781 - root - INFO - Login admin API response received 
+2022-06-09 12:29:22,792 - root - INFO - 200
+2022-06-09 12:29:22,794 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:29:22,803 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:29:23,449 - root - INFO - 
+2022-06-09 12:29:23,466 - root - INFO - 200
+2022-06-09 12:31:15,899 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:31:15,909 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:31:16,506 - root - INFO - Hit Add Item API Done
+2022-06-09 12:31:16,524 - root - INFO - 200
+2022-06-09 12:31:16,529 - root - INFO - Login Admin API invoked
+2022-06-09 12:31:16,542 - root - INFO - Hit the inventory login Url
+2022-06-09 12:31:17,189 - root - INFO - Login admin API response received 
+2022-06-09 12:31:17,200 - root - INFO - 200
+2022-06-09 12:31:17,202 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:31:17,211 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:31:17,763 - root - INFO - 200
+2022-06-09 12:31:17,764 - root - INFO - 200
+2022-06-09 12:32:10,784 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:32:10,794 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:33:02,286 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:33:02,296 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:33:03,034 - root - INFO - Hit Add Item API Done
+2022-06-09 12:33:03,052 - root - INFO - 200
+2022-06-09 12:33:03,055 - root - INFO - Login Admin API invoked
+2022-06-09 12:33:03,069 - root - INFO - Hit the inventory login Url
+2022-06-09 12:33:03,983 - root - INFO - Login admin API response received 
+2022-06-09 12:33:03,993 - root - INFO - 200
+2022-06-09 12:33:03,995 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:33:04,004 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:33:52,341 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:33:52,350 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:34:18,549 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:34:18,558 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:34:58,271 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:34:58,281 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:34:59,097 - root - INFO - 200
+2022-06-09 12:34:59,097 - root - INFO - 200
+2022-06-09 12:34:59,097 - root - INFO - Hit update Item API Done
+2022-06-09 12:35:06,290 - root - INFO - Login Admin API invoked
+2022-06-09 12:35:06,299 - root - INFO - Hit the inventory login Url
+2022-06-09 12:35:08,433 - root - INFO - Login admin API response received 
+2022-06-09 12:35:08,443 - root - INFO - 200
+2022-06-09 12:35:13,964 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:35:13,974 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:35:14,696 - root - INFO - Hit Add Item API Done
+2022-06-09 12:35:14,714 - root - INFO - 200
+2022-06-09 12:35:14,716 - root - INFO - Login Admin API invoked
+2022-06-09 12:35:14,729 - root - INFO - Hit the inventory login Url
+2022-06-09 12:35:15,550 - root - INFO - Login admin API response received 
+2022-06-09 12:35:15,561 - root - INFO - 200
+2022-06-09 12:35:15,562 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:35:15,572 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:35:16,156 - root - INFO - 200
+2022-06-09 12:35:16,156 - root - INFO - 200
+2022-06-09 12:35:16,156 - root - INFO - Hit update Item API Done
+2022-06-09 12:57:12,105 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 12:57:12,116 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:57:13,138 - root - INFO - Hit Add Item API Done
+2022-06-09 12:57:13,157 - root - INFO - 200
+2022-06-09 12:57:13,160 - root - INFO - Login Admin API invoked
+2022-06-09 12:57:13,174 - root - INFO - Hit the inventory login Url
+2022-06-09 12:57:14,034 - root - INFO - Login admin API response received 
+2022-06-09 12:57:14,047 - root - INFO - 200
+2022-06-09 12:57:14,048 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 12:57:14,058 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 12:57:14,634 - root - INFO - 200
+2022-06-09 12:57:14,634 - root - INFO - 200
+2022-06-09 12:57:14,634 - root - INFO - Hit update Item API Done
+2022-06-09 13:03:38,075 - root - INFO - Login User API invoked
+2022-06-09 13:03:38,085 - root - INFO - Hit the inventory login Url
+2022-06-09 13:04:21,226 - root - INFO - Login User API invoked
+2022-06-09 13:04:21,242 - root - INFO - Hit the inventory login Url
+2022-06-09 13:05:02,728 - root - INFO - Login User API invoked
+2022-06-09 13:05:02,738 - root - INFO - Hit the inventory login Url
+2022-06-09 13:06:13,103 - root - INFO - Login User API invoked
+2022-06-09 13:06:13,114 - root - INFO - Hit the inventory login Url
+2022-06-09 13:06:35,469 - root - INFO - Login User API invoked
+2022-06-09 13:06:35,479 - root - INFO - Hit the inventory login Url
+2022-06-09 13:08:05,080 - root - INFO - Login User API invoked
+2022-06-09 13:08:05,090 - root - INFO - Hit the inventory login Url
+2022-06-09 13:08:20,352 - root - INFO - Login User API invoked
+2022-06-09 13:08:20,362 - root - INFO - Hit the inventory login Url
+2022-06-09 13:08:49,569 - root - INFO - Login User API invoked
+2022-06-09 13:08:49,579 - root - INFO - Hit the inventory login Url
+2022-06-09 13:09:51,599 - root - INFO - Login User API invoked
+2022-06-09 13:09:51,609 - root - INFO - Hit the inventory login Url
+2022-06-09 13:10:19,729 - root - INFO - Login User API invoked
+2022-06-09 13:10:19,739 - root - INFO - Hit the inventory login Url
+2022-06-09 13:10:20,612 - root - INFO - Login User API response received 
+2022-06-09 13:10:54,582 - root - INFO - Login User API invoked
+2022-06-09 13:10:54,596 - root - INFO - Hit the inventory login Url
+2022-06-09 13:10:55,305 - root - INFO - Login User API response received 
+2022-06-09 13:10:55,314 - root - INFO - 200
+2022-06-09 13:33:36,165 - root - INFO - Feach order by user id  API invoked
+2022-06-09 13:33:36,176 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:35:22,651 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:35:22,662 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:35:23,215 - root - INFO - fetch API response received 
+2022-06-09 13:35:23,225 - root - INFO - 200
+2022-06-09 13:36:29,242 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:36:29,253 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:36:30,106 - root - INFO - fetch API response received 
+2022-06-09 13:36:30,126 - root - INFO - 200
+2022-06-09 13:37:41,921 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:37:41,931 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:38:07,882 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:38:07,892 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:38:38,221 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:38:38,231 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:38:38,805 - root - INFO - fetch API response received 
+2022-06-09 13:38:38,825 - root - INFO - 200
+2022-06-09 13:41:36,226 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:41:36,236 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:42:25,108 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:42:25,118 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:42:26,089 - root - INFO - fetch API response received 
+2022-06-09 13:42:26,107 - root - INFO - 200
+2022-06-09 13:42:58,741 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:42:58,751 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:42:59,597 - root - INFO - fetch API response received 
+2022-06-09 13:42:59,611 - root - INFO - 200
+2022-06-09 13:43:34,826 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:43:34,836 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:43:35,520 - root - INFO - fetch API response received 
+2022-06-09 13:43:35,538 - root - INFO - 200
+2022-06-09 13:44:47,427 - root - INFO - Feach order by user id  API invoked
+2022-06-09 13:44:47,438 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:44:49,838 - root - INFO - fetch API response received 
+2022-06-09 13:44:49,859 - root - INFO - 200
+2022-06-09 13:44:57,936 - root - INFO - Login User API invoked
+2022-06-09 13:44:57,946 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:44:58,816 - root - INFO - Login User API response received 
+2022-06-09 13:44:58,826 - root - INFO - 200
+2022-06-09 13:44:58,828 - root - INFO - Feach order by user id  API invoked
+2022-06-09 13:44:58,838 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:45:00,567 - root - INFO - fetch API response received 
+2022-06-09 13:45:00,580 - root - INFO - 200
+2022-06-09 13:45:00,582 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:45:00,594 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:45:01,229 - root - INFO - fetch API response received 
+2022-06-09 13:45:01,246 - root - INFO - 200
+2022-06-09 13:48:30,353 - root - INFO - Feach all order by user  API invoked
+2022-06-09 13:48:30,363 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:48:39,084 - root - INFO - fetch API response received 
+2022-06-09 13:48:39,106 - root - INFO - 200
+2022-06-09 13:48:53,843 - root - INFO - Login User API invoked
+2022-06-09 13:48:53,865 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:48:54,856 - root - INFO - Login User API response received 
+2022-06-09 13:48:54,867 - root - INFO - 200
+2022-06-09 13:48:54,869 - root - INFO - Feach all order by user  API invoked
+2022-06-09 13:48:54,879 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:49:04,044 - root - INFO - fetch API response received 
+2022-06-09 13:49:04,064 - root - INFO - 200
+2022-06-09 13:49:04,067 - root - INFO - Feach order by user id  API invoked
+2022-06-09 13:49:04,080 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:49:05,884 - root - INFO - fetch API response received 
+2022-06-09 13:49:05,902 - root - INFO - 200
+2022-06-09 13:49:05,904 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:49:05,918 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:49:06,474 - root - INFO - fetch API response received 
+2022-06-09 13:49:06,492 - root - INFO - 200
+2022-06-09 13:55:22,930 - root - INFO - Update Menu API invoked
+2022-06-09 13:55:22,941 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:55:23,482 - root - INFO - fetch API response received 
+2022-06-09 13:55:23,491 - root - INFO - 200
+2022-06-09 13:56:23,184 - root - INFO - Update Menu API invoked
+2022-06-09 13:56:23,194 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:56:35,179 - root - INFO - Update Menu API invoked
+2022-06-09 13:56:35,189 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:56:50,136 - root - INFO - Update Menu API invoked
+2022-06-09 13:56:50,146 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:56:50,977 - root - INFO - fetch API response received 
+2022-06-09 13:56:50,988 - root - INFO - 200
+2022-06-09 13:57:10,501 - root - INFO - Update Menu API invoked
+2022-06-09 13:57:10,512 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:57:11,292 - root - INFO - fetch API response received 
+2022-06-09 13:57:11,300 - root - INFO - 200
+2022-06-09 13:57:30,877 - root - INFO - Update Menu API invoked
+2022-06-09 13:57:30,887 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:57:31,492 - root - INFO - fetch API response received 
+2022-06-09 13:57:31,507 - root - INFO - 200
+2022-06-09 13:57:40,885 - root - INFO - Login User API invoked
+2022-06-09 13:57:40,895 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:57:42,217 - root - INFO - Login User API response received 
+2022-06-09 13:57:42,228 - root - INFO - 200
+2022-06-09 13:57:42,230 - root - INFO - Feach all order by user  API invoked
+2022-06-09 13:57:42,241 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:57:51,352 - root - INFO - fetch API response received 
+2022-06-09 13:57:51,375 - root - INFO - 200
+2022-06-09 13:57:51,377 - root - INFO - Feach order by user id  API invoked
+2022-06-09 13:57:51,392 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:57:53,112 - root - INFO - fetch API response received 
+2022-06-09 13:57:53,130 - root - INFO - 200
+2022-06-09 13:57:53,132 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 13:57:53,147 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:57:53,967 - root - INFO - fetch API response received 
+2022-06-09 13:57:53,984 - root - INFO - 200
+2022-06-09 13:57:53,986 - root - INFO - Update Menu API invoked
+2022-06-09 13:57:53,998 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 13:57:54,692 - root - INFO - fetch API response received 
+2022-06-09 13:57:54,713 - root - INFO - 200
+2022-06-09 14:00:53,893 - root - INFO - Cancel order API invoked
+2022-06-09 14:00:53,904 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:00:55,597 - root - INFO - fetch API response received 
+2022-06-09 14:00:55,614 - root - INFO - 200
+2022-06-09 14:23:32,905 - root - INFO - Creat new order API invoked
+2022-06-09 14:23:32,916 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:23:33,620 - root - INFO - fetch API response received 
+2022-06-09 14:23:33,631 - root - INFO - 200
+2022-06-09 14:23:45,673 - root - INFO - Creat new order API invoked
+2022-06-09 14:23:45,683 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:24:03,241 - root - INFO - Creat new order API invoked
+2022-06-09 14:24:03,251 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:24:03,941 - root - INFO - fetch API response received 
+2022-06-09 14:24:03,951 - root - INFO - 200
+2022-06-09 14:24:43,605 - root - INFO - Creat new order API invoked
+2022-06-09 14:24:43,617 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:24:44,289 - root - INFO - fetch API response received 
+2022-06-09 14:24:44,306 - root - INFO - 200
+2022-06-09 14:25:43,834 - root - INFO - Login User API invoked
+2022-06-09 14:25:43,848 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:25:45,941 - root - INFO - Login User API response received 
+2022-06-09 14:25:45,953 - root - INFO - 200
+2022-06-09 14:27:31,667 - root - INFO - Creat new order API invoked
+2022-06-09 14:27:31,678 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:27:32,540 - root - INFO - fetch API response received 
+2022-06-09 14:27:32,554 - root - INFO - 200
+2022-06-09 14:32:55,086 - root - INFO - Login User API invoked
+2022-06-09 14:32:55,096 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:32:55,946 - root - INFO - Login User API response received 
+2022-06-09 14:32:55,960 - root - INFO - 200
+2022-06-09 14:32:55,962 - root - INFO - Cancel order API invoked
+2022-06-09 14:32:55,973 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:32:56,584 - root - INFO - fetch API response received 
+2022-06-09 14:32:56,602 - root - INFO - 200
+2022-06-09 14:32:56,604 - root - INFO - Creat new order API invoked
+2022-06-09 14:32:56,617 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:32:57,375 - root - INFO - fetch API response received 
+2022-06-09 14:32:57,394 - root - INFO - 200
+2022-06-09 14:32:57,446 - root - INFO - Feach all order by user  API invoked
+2022-06-09 14:32:57,454 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:33:07,694 - root - INFO - fetch API response received 
+2022-06-09 14:33:07,704 - root - INFO - 200
+2022-06-09 14:33:07,707 - root - INFO - Feach order by user id  API invoked
+2022-06-09 14:33:07,717 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:33:09,904 - root - INFO - fetch API response received 
+2022-06-09 14:33:09,934 - root - INFO - 200
+2022-06-09 14:33:09,937 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 14:33:09,953 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:33:10,487 - root - INFO - fetch API response received 
+2022-06-09 14:33:10,518 - root - INFO - 200
+2022-06-09 14:33:10,520 - root - INFO - Update Menu API invoked
+2022-06-09 14:33:10,534 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:33:11,037 - root - INFO - fetch API response received 
+2022-06-09 14:33:11,054 - root - INFO - 200
+2022-06-09 14:34:02,261 - root - INFO - Login User API invoked
+2022-06-09 14:34:02,276 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:34:03,171 - root - INFO - Login User API response received 
+2022-06-09 14:34:03,180 - root - INFO - 200
+2022-06-09 14:34:03,183 - root - INFO - Cancel order API invoked
+2022-06-09 14:34:03,192 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:34:03,840 - root - INFO - fetch API response received 
+2022-06-09 14:34:03,858 - root - INFO - 200
+2022-06-09 14:34:03,860 - root - INFO - Creat new order API invoked
+2022-06-09 14:34:03,874 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:34:04,505 - root - INFO - fetch API response received 
+2022-06-09 14:34:04,524 - root - INFO - 200
+2022-06-09 14:34:04,526 - root - INFO - Feach all order by user  API invoked
+2022-06-09 14:34:04,542 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:34:13,738 - root - INFO - fetch API response received 
+2022-06-09 14:34:13,758 - root - INFO - 200
+2022-06-09 14:34:13,760 - root - INFO - Feach order by user id  API invoked
+2022-06-09 14:34:13,774 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:34:15,739 - root - INFO - fetch API response received 
+2022-06-09 14:34:15,759 - root - INFO - 200
+2022-06-09 14:34:15,762 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 14:34:15,775 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:34:16,291 - root - INFO - fetch API response received 
+2022-06-09 14:34:16,309 - root - INFO - 200
+2022-06-09 14:34:16,311 - root - INFO - Update Menu API invoked
+2022-06-09 14:34:16,324 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:34:16,842 - root - INFO - fetch API response received 
+2022-06-09 14:34:16,860 - root - INFO - 200
+2022-06-09 14:35:23,902 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 14:35:23,914 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:35:24,643 - root - INFO - Hit Add Item API Done
+2022-06-09 14:35:24,658 - root - INFO - 200
+2022-06-09 14:35:24,662 - root - INFO - Login Admin API invoked
+2022-06-09 14:35:24,673 - root - INFO - Hit the inventory login Url
+2022-06-09 14:35:25,337 - root - INFO - Login admin API response received 
+2022-06-09 14:35:25,347 - root - INFO - 200
+2022-06-09 14:35:25,349 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:35:25,359 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:35:26,895 - root - INFO - 200
+2022-06-09 14:35:26,895 - root - INFO - 200
+2022-06-09 14:35:26,895 - root - INFO - Hit update Item API Done
+2022-06-09 14:49:33,525 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 14:49:33,541 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:49:34,385 - root - INFO - Hit Add Item API Done
+2022-06-09 14:49:34,405 - root - INFO - 200
+2022-06-09 14:49:34,408 - root - INFO - Login Admin API invoked
+2022-06-09 14:49:34,422 - root - INFO - Hit the inventory login Url
+2022-06-09 14:49:35,232 - root - INFO - Login admin API response received 
+2022-06-09 14:49:35,242 - root - INFO - 200
+2022-06-09 14:49:35,244 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:49:35,255 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:51:32,771 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:51:32,781 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:52:37,449 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:52:37,463 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:54:46,663 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 14:54:46,675 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:54:47,481 - root - INFO - Hit Add Item API Done
+2022-06-09 14:54:47,500 - root - INFO - 200
+2022-06-09 14:54:51,680 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:54:51,690 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:55:15,204 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:55:15,216 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:55:22,373 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:55:22,384 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:56:35,022 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:56:35,032 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:57:40,488 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:57:40,499 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:57:56,593 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 14:57:56,604 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 14:57:57,149 - root - INFO - 200
+2022-06-09 14:57:57,149 - root - INFO - 200
+2022-06-09 14:57:57,149 - root - INFO - Hit update Item API Done
+2022-06-09 14:58:36,540 - root - INFO - Login User API invoked
+2022-06-09 14:58:36,550 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:58:37,641 - root - INFO - Login User API response received 
+2022-06-09 14:58:37,651 - root - INFO - 200
+2022-06-09 14:58:37,653 - root - INFO - Cancel order API invoked
+2022-06-09 14:58:37,661 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:58:38,340 - root - INFO - fetch API response received 
+2022-06-09 14:58:38,354 - root - INFO - 200
+2022-06-09 14:58:38,356 - root - INFO - Creat new order API invoked
+2022-06-09 14:58:38,368 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:58:39,242 - root - INFO - fetch API response received 
+2022-06-09 14:58:39,261 - root - INFO - 200
+2022-06-09 14:58:39,264 - root - INFO - Feach all order by user  API invoked
+2022-06-09 14:58:39,279 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:58:48,191 - root - INFO - fetch API response received 
+2022-06-09 14:58:48,212 - root - INFO - 200
+2022-06-09 14:58:48,215 - root - INFO - Feach order by user id  API invoked
+2022-06-09 14:58:48,229 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:58:50,457 - root - INFO - fetch API response received 
+2022-06-09 14:58:50,479 - root - INFO - 200
+2022-06-09 14:58:50,481 - root - INFO - Feach order by user id and order id API invoked
+2022-06-09 14:58:50,495 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:58:51,223 - root - INFO - fetch API response received 
+2022-06-09 14:58:51,241 - root - INFO - 200
+2022-06-09 14:58:51,243 - root - INFO - Update Menu API invoked
+2022-06-09 14:58:51,257 - root - INFO - Hit the Checkout-Services login Url
+2022-06-09 14:58:51,941 - root - INFO - fetch API response received 
+2022-06-09 14:58:51,958 - root - INFO - 200
+2022-06-09 16:03:22,755 - root - INFO - Preceding To Add Item API invoked
+2022-06-09 16:03:22,768 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 16:03:23,794 - root - INFO - Hit Add Item API Done
+2022-06-09 16:03:23,804 - root - INFO - 200
+2022-06-09 16:03:23,806 - root - INFO - Login Admin API invoked
+2022-06-09 16:03:23,816 - root - INFO - Hit the inventory login Url
+2022-06-09 16:03:25,835 - root - INFO - Login admin API response received 
+2022-06-09 16:03:25,848 - root - INFO - 200
+2022-06-09 16:03:25,850 - root - INFO - Preceding To Update Item API invoked
+2022-06-09 16:03:25,860 - root - INFO - Hit the inventory Add Item Url
+2022-06-09 16:03:26,478 - root - INFO - 200
+2022-06-09 16:03:26,478 - root - INFO - 200
+2022-06-09 16:03:26,478 - root - INFO - Hit update Item API Done

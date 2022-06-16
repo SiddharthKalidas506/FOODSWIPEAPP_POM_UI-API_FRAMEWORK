@@ -1,0 +1,20 @@
+{
+    "userId": "SiddharthKalidas@deloitte.com",
+    "finalAmount": 30,
+    "orderItems": [
+        {
+            "menuId": 45,
+            "amount": 30,
+            "quantity": 1,
+            "menuStatus": ""
+        }
+    ],
+    "paymentDetails": {
+        "cardNumber": "1111222233334444",
+        "nameOnCard": "Siddharth Kalidas",
+        "expMonth": "SEP",
+        "expYear": "2024",
+        "cvv": "444",
+        "totalAmount": 229
+    }
+}
